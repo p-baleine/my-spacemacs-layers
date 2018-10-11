@@ -1,0 +1,8 @@
+* Blogs                                                              :elfeed:
+** はてなブックマーク - 人気エントリー
+*** [[http://b.hatena.ne.jp/hotentry/general.rss][一般]]                                                     :hatena:general:
+*** [[http://b.hatena.ne.jp/hotentry?mode=rss][総合]]                                                         :hatena:all:
+*** [[http://b.hatena.ne.jp/hotentry/social.rss][世の中]]                                                           :hatena:
+*** [[http://b.hatena.ne.jp/hotentry/it.rss][テクノロジー]]                                                  :hatena:it:
+*** [[http://b.hatena.ne.jp/hotentry/game.rss][アニメとゲーム]]                                         :haten:anime:game:
+** [[https://hnrss.org/frontpage][Hacker News]]                                                   :hackernews:
